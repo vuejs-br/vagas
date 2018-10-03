@@ -14,23 +14,25 @@ Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre co
 
 Exemplo: `[São Paulo] Front-End Engineer na [NOME DA EMPRESA]`
 
-Preencha o restante das informações conforme especificado no [modelo da issue](). 
+Preencha o restante das informações conforme especificado no [modelo da issue](https://github.com/vuejs-br/vagas/blob/master/.github/issue_template.md). 
 
 Não esqueça de informar quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
 
-**Atenção**: Não aceitaremos vagas sem o nome da empresa contratante.
+**Importante**
 
-```
-Importante
+- Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
 
-Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
-```
+- Não aceitaremos vagas sem o nome da empresa contratante.
 
 ### Recebendo atualizações das vagas
 
 Para receber atualizações das vagas no seu email ou via notificações do GitHub, basta clicar em Watch e, em seguida, clicar em Watching no canto superior direito da interface do site, próximo a sua foto de perfil.
 
-### Outros repositórios de vagas
+<p align="center">
+<img src="https://i.postimg.cc/gkSjc2nG/Screen_Recording_2018-10-03_at_08.23_PM.gif">
+</p>
+
+## Outros repositórios de vagas
 
 Esse repositório é específico para postagem de vagas de **Vue.js**,
 mas existem vagas para muitas outras áreas, _stacks_ e estados do país. Confira abaixo as outras
