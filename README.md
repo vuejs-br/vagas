@@ -38,13 +38,14 @@ Esse repositório é específico para postagem de vagas de **Vue.js**,
 mas existem vagas para muitas outras áreas, _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga:
 
-- [Vagas para desenvolvedores Back-end](https://github.com/backend-br/vagas)
-- [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
-- [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
-- [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
-- [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
-- [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
-- [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
+- [Vagas para desenvolvedores(as) Back-end](https://github.com/backend-br/vagas)
+- [Vagas para desenvolvedores(as) Android](https://github.com/androiddevbr/vagas)
+- [Vagas para desenvolvedores(as) no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
+- [Vagas para desenvolvedores(as) iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
+- [Vagas para desenvolvedores(as) PHP](https://github.com/phpdevbr/vagas)
+- [Vagas para desenvolvedores(as) Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
+- [Vagas para desenvolvedores(as) React e React Native](https://github.com/react-brasil/vagas)
+- [Vagas para desenvolvedores(as) Go/Golang](https://github.com/Gommunity/vagas)
 
 ## Repositórios do Vue.js Brasil
 
