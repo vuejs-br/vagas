@@ -46,6 +46,7 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores(as) Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
 - [Vagas para desenvolvedores(as) React e React Native](https://github.com/react-brasil/vagas)
 - [Vagas para desenvolvedores(as) Go/Golang](https://github.com/Gommunity/vagas)
+- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
 
 ## Repositórios do Vue.js Brasil
 
