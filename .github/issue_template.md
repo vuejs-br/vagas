@@ -2,7 +2,9 @@
 ==================================================
 POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM VUE.JS OU TECNOLOGIAS DO ECOSSISTEMA!
 
-Exemplo: `[São Paulo] Vue.JS Developer na NOME DA EMPRESA`
+Preencha as informações da sua empresa no https://github.com/vuejs-br/empresas-que-usam-vue-no-brasil/issues/new
+
+Exemplo: `[São Paulo] Vue.JS Developer na @NOME DA EMPRESA`
 ==================================================
 -->
 
