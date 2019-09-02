@@ -2,9 +2,10 @@
 ==================================================
 POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM VUE.JS OU TECNOLOGIAS DO ECOSSISTEMA!
 
-Preencha as informações da sua empresa no https://github.com/vuejs-br/empresas-que-usam-vue-no-brasil/issues/new
+Exemplo: `[São Paulo/SP] Vue.JS Developer @NOME DA EMPRESA`
+Exemplo: `[São Paulo/SP | Santos/SP | Remoto] Front-end Developer @NOME DA EMPRESA`
+Exemplo: `[Remoto] FullStack Developer @NOME DA EMPRESA`
 
-Exemplo: `[São Paulo] Vue.JS Developer na @NOME DA EMPRESA`
 ==================================================
 -->
 
