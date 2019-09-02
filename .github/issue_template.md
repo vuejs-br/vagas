@@ -54,6 +54,11 @@ PJ a combinar
 
 Aqui na Corporação XPTO somos líderes em...
 
+**Aqui usamos:**
+- Php
+- C#
+- AWS
+
 ## Como se candidatar
 
 Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga Vue.js
