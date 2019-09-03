@@ -10,9 +10,9 @@ Vagas disponíveis em [https://github.com/vuejs-br/vagas/issues](https://github.
 
 ### Cadastrando uma vaga
 
-Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
+Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes (e a informação de permitir trabalho também, se for o caso), seguido do nome da vaga e, após arroba, o nome da empresa.
 
-Exemplo: `[São Paulo] Front-End Engineer na [NOME DA EMPRESA]`
+Exemplo: `[São Paulo/SP | Remoto] Front-End Vue.js Engineer Sênior @ {Empresa}`
 
 Preencha o restante das informações conforme especificado no [modelo da issue](https://github.com/vuejs-br/vagas/blob/master/.github/issue_template.md). 
 
