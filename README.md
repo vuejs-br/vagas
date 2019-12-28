@@ -14,7 +14,7 @@ Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre co
 
 Exemplo: `[São Paulo/SP | Remoto] Front-End Vue.js Engineer Sênior @ {Empresa}`
 
-Preencha o restante das informações conforme especificado no [modelo da issue](https://github.com/vuejs-br/vagas/blob/master/.github/issue_template.md). 
+Preencha o restante das informações conforme especificado no [modelo da issue](https://github.com/vuejs-br/vagas/blob/master/.github/ISSUE_TEMPLATE/nova-vaga.md). 
 
 Não esqueça de informar quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
 
