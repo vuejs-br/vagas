@@ -1,12 +1,36 @@
+---
+name: Nova vaga
+about: Informações da vaga
+title: '[São Paulo/SP | Santos/SP | Remoto] Front-end Developer @NOME DA EMPRESA'
+labels: ''
+assignees: ''
+
+---
+<!-- POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM VUE.JS OU TECNOLOGIAS DO ECOSSISTEMA! -->
+
 <!--
-==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM VUE.JS OU TECNOLOGIAS DO ECOSSISTEMA!
+Labels:
+Preencha os quadros a baixo com um X
 
-Exemplo: `[São Paulo/SP] Vue.JS Developer @NOME DA EMPRESA`
-Exemplo: `[São Paulo/SP | Santos/SP | Remoto] Front-end Developer @NOME DA EMPRESA`
-Exemplo: `[Remoto] FullStack Developer @NOME DA EMPRESA`
+# Alocação
+- [] Flexível
+- [] Presencial
+- [] Remoto
 
-==================================================
+# Experiência
+- [] Estágio
+- [] Júnior
+- [] Pleno
+- [] Sênior
+
+# Regime
+- [] A-Combinar
+- [] CLT
+- [] Estágio
+- [] Freela
+- [] Outros
+- [] PJ
+
 -->
 
 ## Descrição da vaga
@@ -62,19 +86,3 @@ Aqui na Corporação XPTO somos líderes em...
 ## Como se candidatar
 
 Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga Vue.js
-
-## Labels
-
-- alocação/Flexível
-- alocação/Presencial
-- alocação/Remoto
-- experiência/Estágio
-- experiência/Júnior
-- experiência/Pleno
-- experiência/Sênior
-- regime/A-Combinar
-- regime/CLT
-- regime/Estágio
-- regime/Freela
-- regime/Outros
-- regime/PJ
