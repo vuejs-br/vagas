@@ -1,0 +1,15 @@
+name: Labeling new issue
+
+on:
+    issues:
+        types: [opened]
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps: 
+        - uses: Renato66/auto-label@v1.0.0
+          with:
+              repo-token: ${{ secrets.GITHUB_TOKEN }}
+              is-hidden: true
