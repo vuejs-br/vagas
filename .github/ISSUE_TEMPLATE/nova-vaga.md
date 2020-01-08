@@ -86,3 +86,25 @@ Aqui na Corporação XPTO somos líderes em...
 ## Como se candidatar
 
 Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga Vue.js
+
+## Labels
+<!-- retire os labels que não fazem sentido a vaga -->
+
+#### Alocação
+- Flexível
+- Presencial
+- Remoto
+
+#### Experiência
+- Estágio
+- Júnior
+- Pleno
+- Sênior
+
+#### Regime
+- A-Combinar
+- CLT
+- Estágio
+- Freela
+- Outros
+- PJ
