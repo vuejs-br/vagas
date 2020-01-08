@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps: 
-        - uses: Renato66/auto-label@v1.0.0
+        - uses: Renato66/auto-label@v2.0.1
           with:
               repo-token: ${{ secrets.GITHUB_TOKEN }}
-              is-hidden: true
+              labels-not-allowed: "Fora dos padrões|Falta de informações"
