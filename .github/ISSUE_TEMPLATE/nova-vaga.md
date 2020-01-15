@@ -1,16 +1,16 @@
 ---
 name: Nova vaga
 about: Informações da vaga
-title: '[São Paulo/SP | Santos/SP | Remoto] Front-end Developer @NOME DA EMPRESA'
+title: '[São Paulo/SP | Santos/SP | Remoto] Front-end Vue.js Developer @ {Empresa}'
 labels: ''
 assignees: ''
-
 ---
+
 <!-- POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM VUE.JS OU TECNOLOGIAS DO ECOSSISTEMA! -->
 
 <!--
 Labels:
-Preencha os quadros a baixo com um X
+Preencha os quadros abaixo com um X
 
 # Alocação
 - [] Flexível
@@ -30,7 +30,6 @@ Preencha os quadros a baixo com um X
 - [] Freela
 - [] Outros
 - [] PJ
-
 -->
 
 ## Descrição da vaga
@@ -39,7 +38,7 @@ Projeto bacana com Vue.js, etc..
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Madalena
+Remoto ou Escritório, São Paulo/SP - Vila Madalena
 
 ## Benefícios
 
@@ -52,43 +51,46 @@ Remoto ou Escritório, São Paulo - Vila Madalena
 #### Diferenciais
 
 - 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
+- Monte a sua máquina como desejar
+- Frigobar sempre cheio :P
+- Sala de jogos
 - ...
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com desenvolvimento Javascript
-- 2 anos de experiência com desenvolvimento Vue.js/Nuxt
+- 3 anos de experiência com desenvolvimento JavaScript
+- 2 anos de experiência com desenvolvimento Vue.js
+- 1 ano de experiência com desenvolvimento Nuxt.js
 
 **Desejáveis:**
-- conhecimentos em Vuex
-- conhecimentos em GraphQL
+- Cnhecimentos em Vuex
+- Conhecimentos em GraphQL
 
 **Diferenciais:**
-- projetos opensource
+- Projetos open-source
 
 ## Contratação
 
-PJ a combinar
+PJ a combinar.
 
 ## Nossa empresa
 
 Aqui na Corporação XPTO somos líderes em...
 
 **Aqui usamos:**
-- Php
+- Vue.js
+- PHP
 - C#
 - AWS
+- ...
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga Vue.js
+Por favor, envie um e-mail para email@empresa.com.br com seu CV anexado. Enviar no assunto: _Vaga Vue.js_
 
 ## Labels
-<!-- retire os labels que não fazem sentido a vaga -->
+<!-- retire os labels que não fazem sentido à vaga -->
 
 #### Alocação
 - Flexível
