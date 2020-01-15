@@ -10,23 +10,23 @@ Vagas disponíveis em [https://github.com/vuejs-br/vagas/issues](https://github.
 
 ### Cadastrando uma vaga
 
-Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes (e a informação de permitir trabalho também, se for o caso), seguido do nome da vaga e, após arroba, o nome da empresa.
+Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes (e a informação de permitir trabalho remoto também, se for o caso), seguido do nome da vaga e, após um arroba, o nome da empresa.
 
-Exemplo: `[São Paulo/SP | Remoto] Front-End Vue.js Engineer Sênior @ {Empresa}`
+Exemplo 1: `[Belo Horizonte/BH | Remoto] Senior Front-End Vue.js Engineer @ Google`
+Exemplo 2: `[Rio de Janeiro/RJ | Curitiba/PR] Full-Stack Vue.js + Laravel @ Empresa de Exemplo`
+Exemplo 3: `[Remoto] Front-End Vue.js Developer Sênior @ Nome da Startup`
 
-Preencha o restante das informações conforme especificado no [modelo da issue](https://github.com/vuejs-br/vagas/blob/master/.github/ISSUE_TEMPLATE/nova-vaga.md). 
-
-Não esqueça de informar quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
+Preencha o restante das informações conforme especificado no [modelo de issue](https://github.com/vuejs-br/vagas/blob/master/.github/ISSUE_TEMPLATE/nova-vaga.md). Não esqueça de informar quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
 
 **Importante**
 
-- Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
+- Para evitar que possíveis candidatos enviem currículos para vagas já preenchidas, dê manutenção à sua _issue_, ao menos a cada 30 dias (1 mês). Basta colocar um comentário informando que a vaga continua aberta, ou mesmo informando se alguém já foi contratado (através do nosso repositório ou por fora). Caso a _issue_ fique por um tempo maior sem manutenção, poderá ser fechada por um moderador do repositório sem comunicação prévia.
 
 - Não aceitaremos vagas sem o nome da empresa contratante.
 
 ### Recebendo atualizações das vagas
 
-Para receber atualizações das vagas no seu email ou via notificações do GitHub, basta clicar em Watch e, em seguida, clicar em Watching no canto superior direito da interface do site, próximo a sua foto de perfil.
+Para receber atualizações das vagas no seu e-mail ou via notificações do Github, basta clicar em _Watch_ e, em seguida, clicar em _Watching_ no canto superior direito da interface, próximo à sua foto de perfil.
 
 <p align="center">
 <img src="https://i.postimg.cc/gkSjc2nG/Screen_Recording_2018-10-03_at_08.23_PM.gif">
@@ -34,9 +34,7 @@ Para receber atualizações das vagas no seu email ou via notificações do GitH
 
 ## Outros repositórios de vagas
 
-Esse repositório é específico para postagem de vagas de **Vue.js**,
-mas existem vagas para muitas outras áreas, _stacks_ e estados do país. Confira abaixo as outras
-listas onde você poderá postar sua vaga:
+Esse repositório é específico para postagem de vagas relacionadas a **Vue.js** e seu ecossistema, mas existem vagas para muitas outras áreas e _stacks_, ou mesmo para localidades específicas do país. Confira abaixo algumas outras listas onde você poderá postar sua vaga:
 
 - [Vagas para desenvolvedores(as) Back-end](https://github.com/backend-br/vagas)
 - [Vagas para desenvolvedores(as) Android](https://github.com/androiddevbr/vagas)
