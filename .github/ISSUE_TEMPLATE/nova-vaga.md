@@ -8,30 +8,6 @@ assignees: ''
 
 <!-- POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM VUE.JS OU TECNOLOGIAS DO ECOSSISTEMA! -->
 
-<!--
-Labels:
-Preencha os quadros abaixo com um X
-
-# Alocação
-- [] Flexível
-- [] Presencial
-- [] Remoto
-
-# Experiência
-- [] Estágio
-- [] Júnior
-- [] Pleno
-- [] Sênior
-
-# Regime
-- [] A-Combinar
-- [] CLT
-- [] Estágio
-- [] Freela
-- [] Outros
-- [] PJ
--->
-
 ## Descrição da vaga
 
 Projeto bacana com Vue.js, etc..
