@@ -1,69 +1,53 @@
 ---
-name: Nova vaga
-about: Informações da vaga
-title: '[São Paulo/SP | Santos/SP | Remoto] Front-end Vue.js Developer @ {Empresa}'
-labels: ''
-assignees: ''
+title: Pessoa Desenvolvedora Front End (Site) Vue.js
 ---
 
 <!-- POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM VUE.JS OU TECNOLOGIAS DO ECOSSISTEMA! -->
 
 ## Descrição da vaga
 
-Projeto bacana com Vue.js, etc..
+Projeto é para realizar melhorias em um portal de laudos para pacientes, clinicas, hospitais e telemedicina, excelente oportunidade para adentrar no nicho de saúde, conhecer o protocolo dicom, utilizado para transferir imagens de equipamentos RX, TC e RM, podemos ensinar muito sobre essa área.
 
 ## Local
 
-Remoto ou Escritório, São Paulo/SP - Vila Madalena
+Remoto ou Presencial Vitória, ES
 
 ## Benefícios
 
 - Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
+- VR
 
 #### Diferenciais
 
-- 2 horas de almoço
-- Monte a sua máquina como desejar
-- Frigobar sempre cheio :P
-- Sala de jogos
-- ...
+- Home office,
+- Horario flexivel
+- Entregas semanais por demanda
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com desenvolvimento JavaScript
-- 2 anos de experiência com desenvolvimento Vue.js
-- 1 ano de experiência com desenvolvimento Nuxt.js
+- Vue.js (ou conhecimentos sólidos em React), JavaScript e SQL
+- Experiência em programação e metodologia de desenvolvimento.
 
-**Desejáveis:**
-- Cnhecimentos em Vuex
-- Conhecimentos em GraphQL
 
 **Diferenciais:**
-- Projetos open-source
+- SQL, AWS, ColdDeploy
 
 ## Contratação
 
-PJ a combinar.
+CLT a combinar.
 
 ## Nossa empresa
 
-Aqui na Corporação XPTO somos líderes em...
+Empresa seguimento tecnologia médica, clinicas hospitais e telemedicina.
 
 **Aqui usamos:**
-- Vue.js
-- PHP
-- C#
-- AWS
-- ...
+- Vue.js ou React Sólido
+- SQL
 
 ## Como se candidatar
 
-Por favor, envie um e-mail para email@empresa.com.br com seu CV anexado. Enviar no assunto: _Vaga Vue.js_
+Por favor, envie um e-mail para diniz@telelaudo.com.br com seu CV anexado. Enviar no assunto: _Vaga Vue.js_
 
 ## Labels
 <!-- retire os labels que não fazem sentido à vaga -->
@@ -74,15 +58,8 @@ Por favor, envie um e-mail para email@empresa.com.br com seu CV anexado. Enviar 
 - Remoto
 
 #### Experiência
-- Estágio
-- Júnior
 - Pleno
 - Sênior
 
 #### Regime
-- A-Combinar
 - CLT
-- Estágio
-- Freela
-- Outros
-- PJ
